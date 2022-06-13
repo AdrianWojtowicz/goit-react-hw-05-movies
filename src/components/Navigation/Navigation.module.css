@@ -1,0 +1,20 @@
+.nav {
+  padding: 10px 15px;
+  border-bottom: 2px solid rgb(9, 5, 119);
+}
+
+.navItem {
+  color: rgb(9, 5, 119);
+  margin-right: 25px;
+  text-decoration: none;
+}
+
+.active {
+  color: rgb(9, 5, 119);
+}
+.active:hover {
+  color: rgb(5, 77, 27);
+}
+.navItem:hover {
+  color: rgb(5, 77, 27);
+}

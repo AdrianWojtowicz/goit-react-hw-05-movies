@@ -1,0 +1,30 @@
+.searchForm {
+  margin: 20px 0 20px 10px;
+}
+
+.searchFormInput {
+  padding: 10px 20px 10px 20px;
+}
+
+.button {
+  margin-left: 20px;
+  padding: 10px 20px 10px 20px;
+  border: 1.5px solid rgb(9, 5, 119);
+  background-color: rgb(9, 5, 119);
+  border-radius: 2px;
+  color: white;
+}
+
+.button:hover {
+  background-color: rgb(5, 77, 27);
+  border: 1.5px solid rgb(5, 77, 27);
+}
+
+.link {
+  text-decoration: none;
+  color: #000000;
+}
+
+.link:hover {
+  color: rgb(9, 5, 119);
+}

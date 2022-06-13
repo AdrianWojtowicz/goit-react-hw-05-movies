@@ -1,0 +1,14 @@
+.actorList {
+  display: flex;
+  margin-right: 10px;
+  flex-wrap: wrap;
+  width: 100px;
+}
+
+.actorImg:not(:last-child) {
+  display: flex;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  width: 100px;
+  flex-direction: row;
+}
